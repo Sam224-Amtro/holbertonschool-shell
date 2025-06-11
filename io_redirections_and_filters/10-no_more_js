@@ -1,2 +1,2 @@
 #!/bin/bash
-find FOLDER -type f -delete
+find -type f -delete
