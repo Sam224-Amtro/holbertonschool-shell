@@ -1,2 +1,2 @@
 #!/bin/bash
-echo  "=== variables d'environnement =="
+printenv "=== variables d'environnement =="
