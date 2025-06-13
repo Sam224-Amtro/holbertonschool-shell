@@ -1,2 +1,2 @@
 #!/bin/bash
-export "=== variables d'environnement =="
+echo  "=== variables d'environnement =="
